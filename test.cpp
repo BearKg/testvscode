@@ -5,4 +5,4 @@ int main()
     printf("hello");
 }
 
-// Vandz
+// Vandz vo doi
